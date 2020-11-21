@@ -1,5 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
+somethin new
+
 typedef struct {
 	Cursor cursor;
 } Cur;
