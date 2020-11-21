@@ -15,6 +15,10 @@ void New_fucn(void) vot
 {
     return 0;
 }
+void New_fucn(void) vot2
+{
+    return 0;
+}
 
 static const unsigned char utfbyte[UTF_SIZ + 1] = {0x80,    0, 0xC0, 0xE0, 0xF0};
 static const unsigned char utfmask[UTF_SIZ + 1] = {0xC0, 0x80, 0xE0, 0xF0, 0xF8};
