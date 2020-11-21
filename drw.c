@@ -11,7 +11,11 @@
 #define UTF_INVALID 0xFFFD
 #define UTF_SIZ     4
 
-void New_fucn(void)
+void New_fucn(void) vot
+{
+    return 0;
+}
+void New_fucn(void) vot2
 {
     return 0;
 }
